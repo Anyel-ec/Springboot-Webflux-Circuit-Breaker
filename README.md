@@ -1,4 +1,3 @@
-````markdown
 # ⚡ Circuit Breaker Demo with Resilience4j and Spring Boot
 
 This project demonstrates how to use **Resilience4j Circuit Breaker** with **Spring Boot WebFlux** to improve the resilience of your applications when dealing with potentially unreliable external services.
